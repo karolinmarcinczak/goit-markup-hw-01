@@ -1,0 +1,57 @@
+.wrapper {
+  background-color: #ffffff;
+  height: 80px;
+  width: 1600px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  margin: 0 auto;
+}
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: var(--grey);
+  background-color: var(--lightgrey);
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  margin: 0;
+  padding: 0;
+}
+
+.webstudio-logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.blue-text {
+  color: #2196f3;
+}
+.without-underline {
+  text-decoration: none;
+}
+.navigation-bar {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.contacts-header {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
